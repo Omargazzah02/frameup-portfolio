@@ -12,12 +12,12 @@ const AboutMe = () => {
       
 
       <div className="w-64 absolute top-44 left-10 z-10">
-        <p className="text-white ">
+        <p className="text-white  max-lg:text-sm">
           AN AWARD-WINNING PHOTOGRAPHER WHOSE LENS TRANSFORMS MOMENTS INTO TIMELESS MASTERPIECES
         </p>
       </div>
 
-      <p className="text-white absolute lg:top-96 top-72 right-10 w-24 text-right">SCROLL MORE</p>
+      <p className="text-white absolute lg:top-96 top-72 right-10 w-24 text-right max-lg:text-sm">SCROLL MORE</p>
 
 
 
@@ -36,7 +36,7 @@ const AboutMe = () => {
         <div className="w-full pt-56 lg:px-20  flex  lg:justify-between   max-lg:flex-col max-lg:items-center   ">
      <div className="w-96 max-lg:w-56">     <h2 className="text-black font-bold text-2xl">ABOUT ME</h2>
 
-          <p className="text-black text-2xl max-lg:text-xl">DISTINGUISHED BY A MYRIAD OF ACCOLADES AND INTERNATIONAL RECOGNITION, SQUIDWOOD STANDS AS A LUMINARY IN THE REALM OF VISUAL STORYTELLING</p>
+          <p className="text-black text-2xl max-lg:text-sm">DISTINGUISHED BY A MYRIAD OF ACCOLADES AND INTERNATIONAL RECOGNITION, SQUIDWOOD STANDS AS A LUMINARY IN THE REALM OF VISUAL STORYTELLING</p>
 
 </div>
          <div className="  max-lg:mt-11 lg:mt-32 lg:mr-14 relative w-[400px] h-[400px] max-lg:w-60 max-lg:h-60">

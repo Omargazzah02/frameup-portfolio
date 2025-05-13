@@ -40,7 +40,7 @@ const Navbar = () => {
 
     return(
 
-        <div className=" top-0  z-20 fixed  w-full flex justify-between  pl-10 pt-2 ">
+        <div className=" top-0  z-30 fixed  w-full flex justify-between  pl-10 pt-2 ">
     <div className="  w-9 h-9  flex  overflow-hidden flex-col cursor-pointer rounded-full " onClick={toggle}>
        <div className="w-full h-1/2  float-left  bg-[var(--color-b)] animated-bg" ></div>
   <div  className='bg-[var(--color-a)]  w-full h-1/2 float-left animated-bg'></div>
