@@ -7,7 +7,7 @@ const AboutMe = () => {
 
 
      return (
-    <section className="bg-[url('/images/photographer.png')] lg:bg-contain max-lg:bg-center    h-[1500px]   w-full relative ">
+    <section className="bg-[url('/images/photographer.png')] lg:bg-contain max-lg:bg-center    h-[1500px]   w-full relative border-2 border-gray-200 ">
       {/* Le texte en grand avec l'image de fond visible à travers */}
       
 
