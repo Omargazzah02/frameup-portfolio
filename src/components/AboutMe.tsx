@@ -30,7 +30,7 @@ const AboutMe = () => {
       <div className="bg-[var(--color-a)] w-full h-[60%] bottom-0 absolute  animated-bg ">
 
 
-        <h1  className=" leading-none text-[20vw] font-extrabold  -top-24  max-lg:-top-10 max-md:-top-7    text-center absolute   left-1/2 transform -translate-x-1/2 z-10 l ">FRAMEUP</h1>
+        <h1  className=" leading-none text-[20vw] font-extrabold  -top-24  max-lg:-top-10 max-md:-top-7    text-center absolute   left-1/2 transform -translate-x-1/2 z-10 l  pointer-events-none ">FRAMEUP</h1>
         <div className="rounded-full w-72 h-72 bg-[var(--color-b)] absolute top-4 z-0 left-3/5  max-lg:w-40 max-lg:h-40  max-md:left-1/2"></div>
         
         <div className="w-full pt-56 lg:px-20  flex  lg:justify-between   max-lg:flex-col max-lg:items-center   ">
