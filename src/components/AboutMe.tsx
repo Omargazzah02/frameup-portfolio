@@ -34,9 +34,9 @@ const AboutMe = () => {
         <div className="rounded-full w-72 h-72 bg-[var(--color-b)] absolute top-4 z-0 left-3/5  max-lg:w-40 max-lg:h-40  max-md:left-1/2"></div>
         
         <div className="w-full pt-56 lg:px-20  flex  lg:justify-between   max-lg:flex-col max-lg:items-center   ">
-     <div className="w-96 max-lg:w-56">     <h2 className="text-black font-bold text-2xl">ABOUT ME</h2>
+     <div className="w-96 max-lg:w-56">     <h1 className="text-black font-bold text-3xl">ABOUT ME</h1>
 
-          <p className="text-black text-2xl max-lg:text-sm">DISTINGUISHED BY A MYRIAD OF ACCOLADES AND INTERNATIONAL RECOGNITION, SQUIDWOOD STANDS AS A LUMINARY IN THE REALM OF VISUAL STORYTELLING</p>
+          <p className="text-black max-lg:text-sm">DISTINGUISHED BY A MYRIAD OF ACCOLADES AND INTERNATIONAL RECOGNITION, SQUIDWOOD STANDS AS A LUMINARY IN THE REALM OF VISUAL STORYTELLING</p>
 
 </div>
          <div className="  max-lg:mt-11 lg:mt-32 lg:mr-14 relative w-[400px] h-[400px] max-lg:w-60 max-lg:h-60">
